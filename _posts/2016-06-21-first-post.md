@@ -4,4 +4,4 @@ title: "Espey, Techy Blogy has been created!"
 date: 2016-06-21
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Yay! I finally have a blog that works! I'm not quite sure the format of this blog quite yet. Or, what I will be posting. But today, I wanted to learn more about Active Directory for Windows. I also think it would be nifty to set up Active Directory via a Chef Script. So, these next few blog posts will be surrounding those two concepts. 
