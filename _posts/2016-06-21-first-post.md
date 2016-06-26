@@ -27,6 +27,7 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
       validate    check that a template is valid
       version     Prints the Packer version
     </code></pre>
+
 4.  
 
 
