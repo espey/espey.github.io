@@ -19,7 +19,7 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
 
     ```
     usage: packer [--version] [--help] <command> [<args>]
-
+    
     Available commands are:
       build       build image(s) from template
       fix         fixes templates from old versions of packer
