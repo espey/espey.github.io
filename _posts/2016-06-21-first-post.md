@@ -24,8 +24,8 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
       inspect     see components of a template
       push        push a template and supporting files to a Packer build service
       validate    check that a template is valid
-      version     Prints the Packer version</code></pre>
+      version     Prints the Packer version
 
-4.  
+4.  Testing
 
 
