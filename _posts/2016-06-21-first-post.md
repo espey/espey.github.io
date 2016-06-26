@@ -15,6 +15,18 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
     vagrant plugin install vagrant-winrm
     ```
 
-3. 
+3. Now you will have to build a windows vagrant box. Due to Microsoft's EULA restrction, it is not currently possible to distribute Windows Vagarnt boxes - even eval versions from publicly downloadable ISO images. This means we have to build the boxes ourselves. But, [Packer](https://www.packer.io/) makes this easier. But, youfirst will have to have Packer installed. To install packer, go to their homepage, press the [download link](https://www.packer.io/downloads.html) and find your operating system. This will give you a .zip file in your Downloads folder. Unzip the file and put the .exe in one of your $PATH locations (I put mine in `/usr/local`).Then, you should be able to run the `packer` command and an output similar to below should appear:
+    ```
+    usage: packer [--version] [--help] <command> [<args>]
+
+    Available commands are:
+      build       build image(s) from template
+      fix         fixes templates from old versions of packer
+      inspect     see components of a template
+      push        push a template and supporting files to a Packer build service
+      validate    check that a template is valid
+      version     Prints the Packer version
+    ```
+4.  
 
 
