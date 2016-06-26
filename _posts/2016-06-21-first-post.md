@@ -11,9 +11,10 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
 
 2. Next, you need to make the WinRM host and port detection logic work - so, you will have to install a vagrant plugin called `vagrant-winrm`. This is a vagrant plugin and will be available to any future Vagrant projects on your workstation. To install run this:
 
-  ```
-  vagrant plugin install vagrant-winrm
-  ```
+    ```
+    vagrant plugin install vagrant-winrm
+    ```
+
 3. 
 
 
