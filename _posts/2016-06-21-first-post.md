@@ -26,6 +26,10 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
       validate    check that a template is valid
       version     Prints the Packer version
 
-4.  Testing
+4.  Now you will be able to build a Windows box. What you will need to do is clone the repo from [boxcutter/windows](https://github.com/boxcutter/windows). Here is the code to clone the repo and make the virtualbox image:
+  `git clone https://github.com/boxcutter/windows.git`
+  `cd windows`
+  `make virtualbox/eval-win2012r2-standard`
 
+5. 
 
