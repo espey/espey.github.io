@@ -28,9 +28,9 @@ Yay! I finally have a blog that works! I'm not quite sure the format of this blo
 
 4.  Now you will be able to build a Windows box. What you will need to do is clone the repo from [boxcutter/windows](https://github.com/boxcutter/windows). Here is the code to clone the repo and make the virtualbox image:
 
-  <pre><code>git clone https://github.com/boxcutter/windows.git
-  cd windows
-  make virtualbox/eval-win2012r2-standard
+    <pre><code>git clone https://github.com/boxcutter/windows.git
+    cd windows
+    make virtualbox/eval-win2012r2-standard
 
 5. 
 
